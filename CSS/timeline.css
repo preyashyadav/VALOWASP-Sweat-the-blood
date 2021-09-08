@@ -399,3 +399,32 @@ a{
 .join-button{
     text-align: center;
 }
+
+.team-det{
+  background-image: url('../images/val35.jpg');
+  background-size: cover;
+  background-position:top;
+  background-repeat: no-repeat;
+  /* margin-top:2rem;
+  margin-bottom:2rem; */
+  margin: 2rem 0;
+  padding:0.5rem;
+  /* border:solid red 2px; */
+  border-radius: 20px;
+  box-shadow: 5px 5px 20px 0px #051cece7;
+}
+
+.team-det p{
+  font-size: 2rem;
+  font-family: 'Roboto', sans-serif;
+  color:white;
+}
+
+.join-button{
+    text-align: center;
+}
+
+.btn-pur{
+  --highlight-color: #100ceee1 !important;
+}
+

@@ -111,7 +111,7 @@ home{
 /* Accordin cards BG */
 
 .ac1{
-    background: linear-gradient(rgba(0, 0, 0, 0.336),rgba(0,0,0,0)),url('./images/map22.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.336),rgba(0,0,0,0)),url('../images/map22.jpg');
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -120,7 +120,7 @@ home{
 }
 
 .ac2{
-    background: linear-gradient(rgba(0, 0, 0, 0.336),rgba(0,0,0,0)),url('./images/map22.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.336),rgba(0,0,0,0)),url('../images/map22.jpg');
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -128,7 +128,7 @@ home{
     /* height:100px; */
 }
 .ac3{
-    background: linear-gradient(rgba(0, 0, 0, 0.336),rgba(0,0,0,0)),url('./images/map22.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.336),rgba(0,0,0,0)),url('../images/map22.jpg');
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -136,7 +136,7 @@ home{
     /* height:100px; */
 }
 .ac4{
-    background: linear-gradient(rgba(0, 0, 0, 0.336),rgba(0,0,0,0)),url('./images/map22.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.336),rgba(0,0,0,0)),url('../images/map22.jpg');
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
