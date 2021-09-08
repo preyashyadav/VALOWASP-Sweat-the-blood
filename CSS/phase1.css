@@ -20,15 +20,15 @@ body{
   }
   
   .scrollBar::-webkit-scrollbar-thumb {
-    background: #725c5c;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to top, #190A05, #725c5c);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to bottom, #190A05, #725c5c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #5052f0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #2c1b75, #5052f0);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #2c1b75, #5052f0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   }
   
   .scrollBar::-webkit-scrollbar-thumb:hover {
-    background: #725c5c;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to bottom, #190A05, #725c5c);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to top, #190A05, #725c5c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #5052f0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #2c1b75, #5052f0);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #2c1b75, #5052f0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   }
 
 
@@ -118,14 +118,13 @@ home{
     background-repeat: no-repeat;
     /* height:100px; */
 }
-
+/* 
 .ac2{
     background: linear-gradient(rgba(0, 0, 0, 0.336),rgba(0,0,0,0)),url('../images/map22.jpg');
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    /* height:100px; */
 }
 .ac3{
     background: linear-gradient(rgba(0, 0, 0, 0.336),rgba(0,0,0,0)),url('../images/map22.jpg');
@@ -133,16 +132,14 @@ home{
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    /* height:100px; */
 }
 .ac4{
-    background: linear-gradient(rgba(0, 0, 0, 0.336),rgba(0,0,0,0)),url('../images/map22.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.336),rgba(0,0,0,0)),url('../images/map1.png');
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    /* height:100px; */
-}
+} */
 
 
 /* Accordion  content alignment*/
