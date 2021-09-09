@@ -74,6 +74,15 @@ logo img{
     max-height:100px;
     background-color:transparent;
 }
+
+.collapse{
+    text-align: center;
+  }
+  
+  .nav-item{
+    font-size: 3rem !important;
+  }
+
 /* Navbar */
 .nav-item{
     font-family: 'Roboto', sans-serif;
