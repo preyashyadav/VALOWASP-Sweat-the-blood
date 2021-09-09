@@ -17,6 +17,10 @@ navbar-custom{
     background: transparent !important;
 }
 
+.collapse{
+  text-align: center;
+}
+
 .heading{
   color: whitesmoke;
   text-align: center;
