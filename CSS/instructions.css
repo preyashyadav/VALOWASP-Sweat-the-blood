@@ -45,6 +45,14 @@ logo img{
     background:transparent;
 }
 
+.collapse{
+  text-align: center;
+}
+
+.nav-item{
+  font-size: 3rem !important;
+}
+
 
 /* Navbar */
 .nav-item{
