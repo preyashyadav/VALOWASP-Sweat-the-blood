@@ -1,0 +1,4 @@
+1.) Alignment of the two banners on homepage in responsive mode.
+2.) Background image of Rules page.
+3.) Adding back buttons.
+4.) Any other.
