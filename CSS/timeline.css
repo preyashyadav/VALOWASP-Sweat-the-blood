@@ -34,10 +34,6 @@ background: linear-gradient(to top, #190A05, #870000); /* W3C, IE 10+/ Edge, Fir
     text-align: center;
 }
 
-.collapse{
-  text-align: center;
-}
-
 .nav-item{
   font-size: 3rem !important;
 }
@@ -93,6 +89,7 @@ body {
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;
+    text-align: center;
 }
 
 
