@@ -30,6 +30,7 @@ body {
     margin:0;
     color:#e0d3d3;
     font-family: 'Roboto', sans-serif;
+    text-align: center;
  }
  
  a {
@@ -75,10 +76,6 @@ logo img{
     background-color:transparent;
 }
 
-.collapse{
-    text-align: center;
-  }
-  
   .nav-item{
     font-size: 3rem !important;
   }
