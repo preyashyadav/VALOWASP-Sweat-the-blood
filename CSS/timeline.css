@@ -37,8 +37,6 @@ background: linear-gradient(to top, #190A05, #870000); /* W3C, IE 10+/ Edge, Fir
 .nav-item{
   font-size: 3rem !important;
 }
-
-
 /* -------------------Navbar---------------------- */
 logo img{
     max-height:100px;

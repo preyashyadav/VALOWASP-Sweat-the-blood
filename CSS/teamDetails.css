@@ -17,10 +17,6 @@ navbar-custom{
     background: transparent !important;
 }
 
-.collapse{
-  text-align: center;
-}
-
 .heading{
   color: whitesmoke;
   text-align: center;
@@ -37,6 +33,7 @@ home{
 }
 body{
     background-color: rgb(0, 0, 0);
+    text-align: center;
 }
 
 
