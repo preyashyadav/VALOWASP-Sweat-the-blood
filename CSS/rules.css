@@ -23,11 +23,10 @@ background: linear-gradient(to top, #190A05, #870000); /* W3C, IE 10+/ Edge, Fir
   }
 
 body {
-    background-image: url('../images/val20.png');
-    background-position: top;
+    background-image: url('../images/map22.jpg');
+    background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    margin:0;
     color:#e0d3d3;
     font-family: 'Roboto', sans-serif;
     text-align: center;
@@ -43,17 +42,17 @@ body {
     text-decoration:none;
  }
  
- #content {
-    margin-right:auto;
-    border-radius:5px;
+ .content {
+    /* margin-right:auto; */
+    /* border-radius:5px; */
     background-color:#262626;
-    margin-left:auto;
-    margin-top:50px;
-    width:65%;
+    /* margin-left:auto; */
+    /* margin-top:50px; */
+    /* width:65%; */
     height:auto;
-    padding:15px;
+    /* padding:15px; */
     border: 3px solid #2E2E2E;
-    margin-bottom:50px;
+    /* margin-bottom:50px; */
  }
  
  p {
