@@ -23,7 +23,7 @@ background: linear-gradient(to top, #190A05, #870000); /* W3C, IE 10+/ Edge, Fir
   }
 
 body {
-    background-image: url('../images/map22.jpg');
+    background-image: url('../images/map32.png');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -43,16 +43,9 @@ body {
  }
  
  .content {
-    /* margin-right:auto; */
-    /* border-radius:5px; */
-    background-color:#262626;
-    /* margin-left:auto; */
-    /* margin-top:50px; */
-    /* width:65%; */
-    height:auto;
-    /* padding:15px; */
-    border: 3px solid #2E2E2E;
-    /* margin-bottom:50px; */
+    background: linear-gradient(rgba(216, 206, 206, 0.527),rgba(0,0,0,0));
+    /* height:auto; */
+  
  }
  
  p {
