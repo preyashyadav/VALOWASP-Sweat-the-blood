@@ -43,8 +43,9 @@ body {
  }
  
  .content {
-    background: linear-gradient(rgba(216, 206, 206, 0.527),rgba(0,0,0,0));
+    background:linear-gradient(rgba(216, 206, 206, 0.678),rgba(0,0,0,0.8));
     /* height:auto; */
+    text-align: center;
   
  }
  
