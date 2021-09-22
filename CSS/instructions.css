@@ -287,7 +287,7 @@ li{
 .instr{
   background: linear-gradient(rgba(0, 0, 0, 0.781),rgba(0, 0, 0, 0.788));
   padding: 1rem;
-  border-radius: 5rem;
+  border-radius: 2rem;
   /* border-radius: 5rem; */
 }
 
