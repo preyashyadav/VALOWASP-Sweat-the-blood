@@ -415,6 +415,7 @@ footer{
 footer ul{
     /* list-style: none; */
     display:block;
+    padding-left: 0px !important;
 }
 
 footer li{
