@@ -1,5 +1,5 @@
 ## VALOWASP-Sweat-the-blood
-<p align="center">This is a website which I developed for a gaming event of my student chapter OWASP VIT.</p><br>
+<p>This is a website which I developed for a gaming event of my student chapter OWASP VIT.</p><br>
 
 
 
