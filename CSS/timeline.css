@@ -79,7 +79,7 @@ logo img{
 }
 
 body {
-    background-image:url('../images/val33.png');
+    background-image:url('../images/val33.webp');
     font-family: 'Poppins', sans-serif;
     font-size: 20px;
     color: white;
@@ -381,7 +381,7 @@ a{
     color:black;
 }
 .banner{
-  background-image: url('../images/val24.png');
+  background-image: url('../images/val24.webp');
   background-size: cover;
   background-position:top;
   background-repeat: no-repeat;

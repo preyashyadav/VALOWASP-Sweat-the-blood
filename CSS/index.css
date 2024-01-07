@@ -69,7 +69,7 @@ logo img {
       rgba(26, 14, 14, 0.459),
       rgba(0, 0, 0, 0)
     ),
-    url("../images/val2.jpg");
+    url("../images/val2.webp");
   background-position: top;
   background-size: cover;
   background-repeat: no-repeat;
@@ -283,7 +283,7 @@ a {
 /* -------------------------------------Section---------------------------------------------------- */
 
 section {
-  background-image: url("../images/val6.jpg");
+  background-image: url("../images/val6.webp");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -370,7 +370,7 @@ img {
 }
 
 .banner {
-  background-image: url("../images/val21.jpg");
+  background-image: url("../images/val21.webp");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
